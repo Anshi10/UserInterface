@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UserInterface</string>
+    <string name="lead_status">Lead Status</string>
+    <string name="_2023_01_14_10_04">2023-01-14 10:04</string>
+    <string name="created_on">Created on:</string>
+    <string name="fresh">Fresh</string>
+    <string name="muretrial">MuRetrial</string>
+    <string name="notes">Notes</string>
+    <string name="type_notes">Type Notes....</string>
+    <string name="jarvis">Jarvis</string>
+    <string name="_2023_06_30_22_00_04">2023-06-30 22:00:04</string>
+    <string name="note">Note:</string>
+    <string name="callback_date_2023_07_01_n00_00_00_updated_by_jarvis_nmissed_callbacks">Callback Date:2023-07-01\n00:00:00 updated by Jarvis\nmissed callbacks</string>
+</resources>
